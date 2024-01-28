@@ -1,6 +1,6 @@
 # Machine_component_failure_prediction
 
-This ML model is developed to identify the the reasons for degraded performance or catastrophic failure of a component either, during component manufacturing and testing or after delivery to the customer at the final application.
+This ML model is developed to identify the reasons for degraded performance or catastrophic failure of a component either, during component manufacturing and testing or after delivery to the customer at the final application.
 
 This dataset reflects real component failure prediction encountered in the automobile and other industries with measurements from real equipment. The features description:-
 
